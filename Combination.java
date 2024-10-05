@@ -3,7 +3,7 @@ import java.io.*;
 
 class Combination {
 
-    /* arr[]  ---> Input Array
+    /* arr[]  ---> Input Array added here
     data[] ---> Temporary array to store current combination
     start & end ---> Starting and Ending indexes in arr[]
     index  ---> Current index in data[]
